@@ -50,7 +50,7 @@ To successfully complete this project, you will need the following technical kno
 
 Have fun with the tasks, and check out the Solution Video for this project if you need help!
 
-#### 👉 TASK 1 - Write RTL tests for the English language
+#### 👉 TASK 1 - Write RTL tests for the English language ✅
 
 1. Start by "eyeballing" that the visible English texts that render in Chrome match the "en" texts found in the JSON file.
 
@@ -63,7 +63,7 @@ Have fun with the tasks, and check out the Solution Video for this project if yo
 
 4. Complete 13 passing tests, corresponding to the "en" keys inside the JSON.
 
-#### 👉 TASK 2 - Implement Internationalization
+#### 👉 TASK 2 - Implement Internationalization ✅
 
 Improve the App component so the user can toggle the UI between Spanish and English. The component receives a `lang` prop that defaults to "en". This is used to initialize a state that controls which language is used. This state can be toggled by clicking on the little flag, but all headings, buttons, placeholders and labels are using hard-coded text in English right now.
 
@@ -77,7 +77,7 @@ Improve the App component so the user can toggle the UI between Spanish and Engl
 
 ❗ Having tests to back you up is extremely useful whenever performing major surgery inside a component like we are doing in this task!
 
-#### 👉 TASK 3 - Write RTL tests for the Spanish language
+#### 👉 TASK 3 - Write RTL tests for the Spanish language ✅
 
 1. Inside the App test file, use React Testing Library to test that all the Spanish shows correctly, following the pattern used in Task 1.
 
